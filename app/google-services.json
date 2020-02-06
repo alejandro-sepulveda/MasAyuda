@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781104026320",
+    "firebase_url": "https://masayuda-af9a7.firebaseio.com",
+    "project_id": "masayuda-af9a7",
+    "storage_bucket": "masayuda-af9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781104026320:android:35ac8ae78c833482b784d5",
+        "android_client_info": {
+          "package_name": "com.example.ayuda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781104026320-7328nfnfoomd4u8chl5tfhf0vq0mfhof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7n25LEJw38cKEkQ9zFPFen6cpqWca6rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781104026320-7328nfnfoomd4u8chl5tfhf0vq0mfhof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
